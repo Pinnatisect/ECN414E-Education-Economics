@@ -5,14 +5,14 @@ The master data  comes from the World Values Survey (WVS) dataset of Wave 7, whi
 The data is filtered for Turkey, and a logit model was built using following columns and variable names. Please check data.xlsx to understand the column references.
 The data cleaning follows for excluding minus values as an answer to question. Please check the codebook for WVS for references.
 The filtered data is placed as eval.xlsx. \\
-\
-AA: urban, rural
-CJ: happiness
-Q46
-LW 
-Q260: sex
-LY
-Q262: age
+
+AA: urban, rural \\
+CJ: happiness \\
+Q46 \\
+LW \\
+Q260: sex \\
+LY \\
+Q262: age \\
 MQ
 Q273: marital status
 MS
