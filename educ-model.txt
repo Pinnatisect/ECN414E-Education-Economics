@@ -1,0 +1,24 @@
+AA: urban, rural
+CJ - CT: happiness, wellbeing questions
+(Q46 - Q56)
+LW 
+Q260: sex
+LY
+Q262: age
+MQ
+Q273: marital status
+MS
+Q275: highest educational level 
+NE
+Q279: employment level
+NO
+Q288R: income level (recoded)
+NP
+Q289: religious level
+
+only 2291 include the answers to the data.
+
+
+hap = male + age + married + emp + rel + urb
+
+
