@@ -4,8 +4,8 @@ This repository contains a sample project done for Education Economics course @I
 The master data  comes from the World Values Survey (WVS) dataset of Wave 7, which can be accessed through the link: https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp
 The data is filtered for Turkey, and a logit model was built using following columns and variable names. Please check data.xlsx to understand the column references.
 The data cleaning follows for excluding minus values as an answer to question. Please check the codebook for WVS for references.
-The filtered data is placed as eval.xlsx.
-
+The filtered data is placed as eval.xlsx. \\
+\
 AA: urban, rural
 CJ: happiness
 Q46
