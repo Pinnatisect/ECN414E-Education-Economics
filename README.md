@@ -6,13 +6,12 @@ The data is filtered for Turkey, and a logit model was built using following col
 The data cleaning follows for excluding minus values as an answer to question. Please check the codebook for WVS for references.
 The filtered data is placed as eval.xlsx. \\
 
-AA: urban, rural \\
-CJ: happiness \\
-Q46 \\
-LW \\
-Q260: sex \\
-LY \\
-Q262: age \\
+
+AA: urban, rural 
+CJ: happiness: Q46
+LW: Q260: sex
+LY 
+Q262: age
 MQ
 Q273: marital status
 MS
